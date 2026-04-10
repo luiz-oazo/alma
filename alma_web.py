@@ -7,27 +7,21 @@ import io
 # CONFIG AUTH
 # =========================
 
-SECRET = "JBSWY3DPEHPK3PXP"
+SECRET = "JBSWY3DPEHPK3PXP"  # você pode gerar outro
+
 totp = pyotp.TOTP(SECRET)
-
-# =========================
-# SESSION STATE
-# =========================
-
-if "authenticated" not in st.session_state:
-    st.session_state.authenticated = False
-
-if "show_qr" not in st.session_state:
-    st.session_state.show_qr = False
 
 # =========================
 # LOGIN
 # =========================
 
-if not st.session_state.authenticated:
+if "authenticated" not in st.session_state:
+    st.session_state.authenticated = False
 
+if not st.session_state.authenticated:
     st.title("🔐 Login Seguro")
-    st.write("Use seu autenticador")
+
+    st.write("Use seu Google Authenticator")
 
     code = st.text_input("Digite o código:", type="password")
 
@@ -38,48 +32,26 @@ if not st.session_state.authenticated:
         else:
             st.error("Código inválido ❌")
 
-    # =========================
-    # ACESSO ADMIN (QR CODE)
-    # =========================
+    # QR Code para configurar no celular
+    st.write("📱 Configure no Google Authenticator:")
 
-    with st.expander("⚙️ Acesso administrador"):
+    uri = pyotp.totp.TOTP(SECRET).provisioning_uri(
+        name="DISC App",
+        issuer_name="Luiz App"
+    )
 
-        secret_input = st.text_input(
-            "Digite o código secreto:",
-            type="password",
-            key="admin_secret"
-        )
 
-        if st.button("Liberar QR Code"):
-            if secret_input == "1406":
-                st.session_state.show_qr = True
-            else:
-                st.error("Código secreto inválido ❌")
+    qr = qrcode.make(uri)
 
-    # =========================
-    # MOSTRAR QR CODE (SE LIBERADO)
-    # =========================
+    buf = io.BytesIO()
+    qr.save(buf, format="PNG")
 
-    if st.session_state.show_qr:
-
-        st.success("Modo administrador ativado ✅")
-
-        uri = pyotp.TOTP(SECRET).provisioning_uri(
-            name="paula-alma",
-            issuer_name="paula-alma"
-        )
-
-        qr = qrcode.make(uri)
-
-        buf = io.BytesIO()
-        qr.save(buf, format="PNG")
-
-        st.image(buf.getvalue(), caption="Escaneie no Authenticator")
+    st.image(buf.getvalue())
 
     st.stop()
 
 # =========================
-# APP PRINCIPAL
+# APP PRINCIPAL (SEU CÓDIGO)
 # =========================
 
 st.set_page_config(page_title="Teste DISC", layout="centered")
