@@ -1,0 +1,252 @@
+PLANO DE DIETA SEMANAL PERSONALIZADO
+================================================================================
+
+==================== SEG ====================
+
+Cafe Da Manha (baseado em: dia específico (seg)):
+  • Arroz, tipo 2, cru (100.0g) [cereais]
+  • Arroz, integral, cozido (100.0g) [cereais]
+  • Aveia, flocos, crua (37.4g) [cereais]
+
+Lanche Da Manha (baseado em: sem restrição):
+  • Brócolis, cru (100.0g) [verdura]
+  • Corimba, cru (58.6g) [pescados]
+
+Almoco (baseado em: sem restrição):
+  • Porco, bisteca, crua (100.0g) [carnes]
+  • Macarrão, trigo, cru (100.0g) [massa]
+  • Carne, bovina, fraldinha, com gordura, cozida (48.8g) [carnes]
+
+Lanche Da Tarde (baseado em: sem restrição):
+  • Cereais, milho, flocos, com sal (100.0g) [cereais]
+  • Ciriguela, crua (100.0g) [frutas]
+  • Soja, extrato solúvel, pó (10.0g) [leguminosas]
+
+Jantar (baseado em: sem restrição):
+  • Tapioca, com manteiga (100.0g) [preparados]
+  • Catalonha, crua (100.0g) [verdura]
+  • Pinha, crua (100.0g) [frutas]
+  • Jamelão, cru (100.0g) [frutas]
+  • Quibe, frito (100.0g) [carnes]
+  • Mamão, Papaia, cru (100.0g) [frutas]
+  • Creme de arroz, pó (100.0g) [cereais]
+  • Uva, Rubi, crua (100.0g) [frutas]
+  • Fruta-pão, crua (100.0g) [frutas]
+  • Cará, cozido (100.0g) [verdura]
+  • Abobrinha, paulista, crua (66.7g) [verdura]
+
+Totais do dia:
+  Calorias: 3317.0 kcal
+  Proteínas: 114.4g ✓ (mín: 100.0g)
+  Gorduras: 64.2 g
+  Carboidratos: 576.1 g
+
+==================== TER ====================
+
+Cafe Da Manha (baseado em: 'todos'):
+  ★ Arroz, integral, cozido (100.0g) [cereais]
+  • Carne, bovina, coxão mole, sem gordura, cozido (100.0g) [carnes]
+  • Melado (25.9g) [doces]
+
+Lanche Da Manha (baseado em: dia específico (ter)):
+  • Biscoito, doce, recheado com chocolate (78.1g) [cereais]
+
+Almoco (baseado em: dia específico (ter)):
+  • Biscoito, doce, maisena (100.0g) [cereais]
+  • Arroz, tipo 2, cozido (100.0g) [cereais]
+  • Arroz, integral, cozido (100.0g) [cereais]
+  • Arroz, tipo 1, cru (100.0g) [cereais]
+  • Arroz, integral, cru (100.0g) [cereais]
+  • Arroz, tipo 1, cozido (100.0g) [cereais]
+  • Arroz, tipo 2, cru (100.0g) [cereais]
+  • Aveia, flocos, crua (18.0g) [cereais]
+
+Lanche Da Tarde (baseado em: sem restrição):
+  • Mandioca, frita (100.0g) [verdura]
+  • Pimentão, vermelho, cru (100.0g) [verdura]
+  • Hambúrguer, bovino, frito (38.0g) [carnes]
+
+Jantar (baseado em: sem restrição):
+  • Queijo, ricota (100.0g) [leites]
+  • Alho, cru (100.0g) [verdura]
+  • Couve-flor, crua (100.0g) [verdura]
+  • Leite, de vaca, desnatado, pó (97.8g) [leites]
+
+Totais do dia:
+  Calorias: 3811.7 kcal
+  Proteínas: 145.4g ✓ (mín: 100.0g)
+  Gorduras: 70.0 g
+  Carboidratos: 647.4 g
+
+==================== QUA ====================
+
+Cafe Da Manha (baseado em: 'todos'):
+  ★ Arroz, integral, cozido (100.0g) [cereais]
+  • Carne, bovina, capa de contra-filé, sem gordura, grelhada (100.0g) [carnes]
+
+Lanche Da Manha (baseado em: sem restrição):
+  • Tremoço, em conserva (78.5g) [leguminosas]
+
+Almoco (baseado em: sem restrição):
+  • Chocolate, ao leite (100.0g) [doces]
+  • Laranja, pêra, suco (100.0g) [frutas]
+  • Sardinha, conserva em óleo (100.0g) [pescados]
+  • Mortadela (100.0g) [carnes]
+  • Arroz, tipo 2, cru (58.3g) [cereais]
+
+Lanche Da Tarde (baseado em: dia específico (qua)):
+  • Arroz, tipo 2, cru (100.0g) [cereais]
+  • Arroz, integral, cozido (100.0g) [cereais]
+  • Biscoito, doce, maisena (10.0g) [cereais]
+
+Jantar (baseado em: dia específico (qua)):
+  • Arroz, integral, cozido (100.0g) [cereais]
+  • Arroz, tipo 2, cru (100.0g) [cereais]
+  • Arroz, tipo 1, cru (100.0g) [cereais]
+  • Aveia, flocos, crua (93.5g) [cereais]
+
+Totais do dia:
+  Calorias: 3528.6 kcal
+  Proteínas: 127.0g ✓ (mín: 100.0g)
+  Gorduras: 102.2 g
+  Carboidratos: 512.6 g
+
+==================== QUI ====================
+
+Cafe Da Manha (baseado em: 'todos'):
+  ★ Arroz, integral, cozido (100.0g) [cereais]
+  • Carne, bovina, seca, cozida (97.8g) [carnes]
+
+Lanche Da Manha (baseado em: sem restrição):
+  • Cenoura, crua (100.0g) [verdura]
+  • Pescada, branca, crua (66.2g) [pescados]
+
+Almoco (baseado em: sem restrição):
+  • Laranja, da terra, suco (100.0g) [frutas]
+  • Cuxá, molho (100.0g) [preparados]
+  • Pescada, filé, com farinha de trigo, frito (100.0g) [pescados]
+  • Presunto, sem capa de gordura (100.0g) [carnes]
+  • Chantilly, spray, com gordura vegetal (80.8g) [industrializados]
+
+Lanche Da Tarde (baseado em: sem restrição):
+  • Porco, costela, crua (84.0g) [carnes]
+
+Jantar (baseado em: sem restrição):
+  • Cuscuz, paulista (100.0g) [preparados]
+  • Quindim (100.0g) [doces]
+  • Mingau tradicional, pó (100.0g) [massa]
+  • Inhame, cru (100.0g) [verdura]
+  • Café, infusão 10% (100.0g) [bebidas]
+  • Carne, bovina, lagarto, cozido (58.7g) [carnes]
+
+Totais do dia:
+  Calorias: 2667.2 kcal
+  Proteínas: 128.5g ✓ (mín: 100.0g)
+  Gorduras: 124.9 g
+  Carboidratos: 252.4 g
+
+==================== SEX ====================
+
+Cafe Da Manha (baseado em: 'todos'):
+  ★ Arroz, integral, cozido (100.0g) [cereais]
+  • Ciriguela, crua (100.0g) [frutas]
+  • Queijo, pasteurizado (100.0g) [leites]
+  • Carne, bovina, filé mingnon, sem gordura, grelhado (10.0g) [carnes]
+
+Lanche Da Manha (baseado em: sem restrição):
+  • Atemóia, crua (100.0g) [frutas]
+  • Feijão, jalo, cru (19.9g) [leguminosas]
+
+Almoco (baseado em: sem restrição):
+  • Bebida láctea, pêssego (100.0g) [leites]
+  • Pêra, Park, crua (100.0g) [frutas]
+  • Beterraba, cozida (100.0g) [verdura]
+  • Pão, milho, forma (100.0g) [massa]
+  • Frango, peito, com pele, assado (100.0g) [carnes]
+  • Leite, de vaca, desnatado, pó (42.3g) [leites]
+
+Lanche Da Tarde (baseado em: sem restrição):
+  • Frango, caipira, inteiro, sem pele, cozido (100.0g) [carnes]
+  • Aipo, cru (100.0g) [verdura]
+
+Jantar (baseado em: sem restrição):
+  • Maniçoba (100.0g) [preparados]
+  • Pescada, filé, frito (100.0g) [pescados]
+  • Corvina de água doce, crua (100.0g) [pescados]
+  • Kiwi, cru (100.0g) [frutas]
+  • Porco, lombo, assado (100.0g) [carnes]
+
+Totais do dia:
+  Calorias: 2357.3 kcal
+  Proteínas: 206.5g ✓ (mín: 100.0g)
+  Gorduras: 72.7 g
+  Carboidratos: 216.8 g
+
+==================== SAB ====================
+
+Cafe Da Manha (baseado em: 'todos'):
+  ★ Arroz, integral, cozido (100.0g) [cereais]
+  • Leite, de vaca, integral, pó (63.6g) [leites]
+
+Lanche Da Manha (baseado em: sem restrição):
+  • Creme de Leite (100.0g) [leites]
+  • Maniçoba (35.0g) [preparados]
+
+Almoco (baseado em: sem restrição):
+  • Tempero a base de sal (100.0g) [mix]
+  • Iogurte, natural, desnatado (100.0g) [leites]
+  • Queijo, parmesão (100.0g) [leites]
+  • Carne, bovina, acém, moído, cru (100.0g) [carnes]
+  • Porco, lombo, assado (56.2g) [carnes]
+
+Lanche Da Tarde (baseado em: sem restrição):
+  • Lingüiça, frango, grelhada (90.2g) [carnes]
+
+Jantar (baseado em: sem restrição):
+  • Margarina, com óleo interesterificado, sem sal (65% de lipídeos) (100.0g) [gordura]
+  • Carne, bovina, costela, assada (100.0g) [carnes]
+  • Biscoito, doce, maisena (14.8g) [cereais]
+
+Totais do dia:
+  Calorias: 2729.5 kcal
+  Proteínas: 151.7g ✓ (mín: 100.0g)
+  Gorduras: 200.4 g
+  Carboidratos: 77.2 g
+
+==================== DOM ====================
+
+Cafe Da Manha (baseado em: 'todos'):
+  ★ Arroz, integral, cozido (100.0g) [cereais]
+  • Frango, peito, com pele, assado (100.0g) [carnes]
+  • Pêra, Williams, crua (100.0g) [frutas]
+  • Acarajé (31.5g) [preparados]
+
+Lanche Da Manha (baseado em: sem restrição):
+  • Carne, bovina, seca, cozida (38.3g) [carnes]
+
+Almoco (baseado em: sem restrição):
+  • Doce, de abóbora, cremoso (100.0g) [doces]
+  • Frango, coração, cru (100.0g) [carnes]
+  • Acerola, crua (100.0g) [frutas]
+  • Linhaça, semente (100.0g) [nozes]
+  • Óleo, de soja (10.0g) [gordura]
+  • Óleo, de milho (10.0g) [gordura]
+  • Carne, bovina, capa de contra-filé, com gordura, grelhada (37.5g) [carnes]
+
+Lanche Da Tarde (baseado em: sem restrição):
+  • Quibe, cru (100.0g) [carnes]
+  • Abobrinha, italiana, refogada (100.0g) [verdura]
+  • Polenta, pré-cozida (100.0g) [massa]
+
+Jantar (baseado em: sem restrição):
+  • Cerveja, pilsen 2 (100.0g) [bebidas]
+  • Frango, caipira, inteiro, sem pele, cozido (100.0g) [carnes]
+  • Pequi, cru (100.0g) [frutas]
+  • Abacate, cru (100.0g) [frutas]
+  • Carne, bovina, miolo de alcatra, sem gordura, grelhado (75.5g) [carnes]
+
+Totais do dia:
+  Calorias: 2798.7 kcal
+  Proteínas: 163.1g ✓ (mín: 100.0g)
+  Gorduras: 147.8 g
+  Carboidratos: 212.3 g

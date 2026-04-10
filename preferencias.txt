@@ -1,0 +1,33 @@
+# Exemplo de arquivo de preferências com suporte a tipos
+# Formato: dia,refeicao,tipo_preferencia,item1,item2,...
+# Dias: seg, ter, qua, qui, sex, sab, dom, todos
+# Refeições: cafe_da_manha, lanche_da_manha, almoco, lanche_da_tarde, jantar
+# Tipos: gosta, nao_gosta, nao_pode, obrigatorio
+# Items: números específicos (1,2,3) ou tipos (cereais,carnes,frutas)
+
+# Tipos disponíveis: bebidas, carnes, cereais, doces, frutas, gordura, industrializados, 
+# leguminosas, leites, massa, mix, nozes, ovos, pescados, preparados, verdura
+
+# Preferências gerais (para todos os dias)
+todos,cafe_da_manha,obrigatorio,cereais
+todos,cafe_da_manha,gosta,frutas,leites
+todos,almoco,gosta,carnes,verdura
+todos,almoco,nao_pode,doces
+todos,jantar,gosta,pescados,leguminosas
+todos,jantar,nao_gosta,gordura
+todos,lanche_da_tarde,obrigatório,frutas,leites
+todos,lanche_da_manha,obrigatório,frutas,leites
+
+# Preferências específicas para segunda-feira (sobrescreve "todos")
+seg,almoco,obrigatorio,1,2,carnes
+seg,almoco,gosta,verdura,leguminosas
+seg,lanche_da_tarde,gosta,frutas
+
+# Preferências específicas para domingo
+dom,cafe_da_manha,obrigatorio,ovos,leites
+dom,almoco,gosta,preparados
+dom,jantar,nao_pode,carnes,pescados
+
+# Exemplo misturando números específicos e tipos
+ter,almoco,gosta,1,2,3,carnes,verdura
+qua,jantar,obrigatorio,pescados,557,558

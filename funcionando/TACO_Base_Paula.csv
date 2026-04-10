@@ -1,0 +1,598 @@
+﻿numero;tipo;descricao;total - g;calorias - kcal;protei - g;gordura - g;caarboidrato - g;fibra alimentar - g
+1;arroz;Arroz, integral, cozido;100;124;2,6;1;25,8;2,7
+2;arroz;Arroz, integral, cru;100;360;7,3;1,9;77,5;4,8
+3;arroz;Arroz, tipo 1, cozido;100;128;2,5;0,2;28,1;1,6
+4;arroz;Arroz, tipo 1, cru;100;358;7,2;0,3;78,8;1,6
+5;arroz;Arroz, tipo 2, cozido;100;130;2,6;0,4;28,2;1,1
+6;arroz;Arroz, tipo 2, cru;100;358;7,2;0,3;78,9;1,7
+7;aveia;Aveia, flocos, crua;100;394;13,9;8,5;66,6;9,1
+8;biscoito doce;Biscoito, doce, maisena;100;443;8,1;12;75,2;2,1
+9;biscoito doce;Biscoito, doce, recheado com chocolate;100;472;6,4;19,6;70,5;3
+10;biscoito doce;Biscoito, doce, recheado com morango;100;471;5,7;19,6;71;1,5
+11;biscoito doce;Biscoito, doce, wafer, recheado de chocolate;100;502;5,6;24,7;67,5;1,8
+12;biscoito doce;Biscoito, doce, wafer, recheado de morango;100;513;4,5;26,4;67,4;0,8
+13;biscoito salgado;Biscoito, salgado, cream cracker;100;432;10,1;14,4;68,7;2,5
+14;bolo;Bolo, mistura para;100;419;6,2;6,1;84,7;1,7
+15;bolo;Bolo, pronto, aipim;100;324;4,4;12,7;47,9;0,7
+16;bolo;Bolo, pronto, chocolate;100;410;6,2;18,5;54,7;1,4
+17;bolo;Bolo, pronto, coco;100;333;5,7;11,3;52,3;1,1
+18;bolo;Bolo, pronto, milho;100;311;4,8;12,4;45,1;0,7
+19;cereais;Canjica, branca, crua;100;358;7,2;1;78,1;5,5
+20;cereais;Canjica, com leite integral;100;112;2,4;1,2;23,6;1,2
+21;cereais;Cereais, milho, flocos, com sal;100;370;7,3;1,6;80,8;5,3
+22;cereais;Cereais, milho, flocos, sem sal;100;363;6,9;1,2;80,4;1,8
+23;cereais;Cereais, mingau, milho, infantil;100;394;6,4;1,1;87,3;3,2
+24;cereais;Cereais, mistura para vitamina, trigo, cevada e aveia;100;381;8,9;2,1;81,6;5
+25;cereais;Cereal matinal, milho;100;365;7,2;1;83,8;4,1
+26;cereais;Cereal matinal, milho, açúcar;100;377;4,7;0,7;88,8;2,1
+27;cereais;Creme de arroz, pó;100;386;7;1,2;83,9;1,1
+28;cereais;Creme de milho, pó;100;333;4,8;1,6;86,1;3,7
+29;cereais;Curau, milho verde;100;78;2,4;1,6;13,9;0,5
+30;cereais;Curau, milho verde, mistura para;100;402;2,2;13,4;79,8;2,5
+31;farinha;Farinha, de arroz, enriquecida;100;363;1,3;0,3;85,5;0,6
+32;farinha;Farinha, de centeio, integral;100;336;12,5;1,8;73,3;15,5
+33;farinha;Farinha, de milho, amarela;100;351;7,2;1,5;79,1;5,5
+34;farinha;Farinha, de rosca;100;371;11,4;1,5;75,8;4,8
+35;farinha;Farinha, de trigo;100;360;9,8;1,4;75,1;2,3
+36;farinha;Farinha, láctea, de cereais;100;415;11,9;5,8;77,8;1,9
+37;massa;Lasanha, massa fresca, cozida;100;164;5,8;1,2;32,5;1,6
+38;massa;Lasanha, massa fresca, crua;100;220;7;1,3;45,1;1,6
+39;massa;Macarrão, instantâneo;100;436;8,8;17,2;62,4;5,6
+40;massa;Macarrão, trigo, cru;100;371;10;1,3;77,9;2,9
+41;massa;Macarrão, trigo, cru, com ovos;100;371;10,3;2;76,6;2,3
+42;massa;Milho, amido, cru;100;361;0,6;0;87,1;0,7
+43;massa;Milho, fubá, cru;100;353;7,2;1,9;78,9;4,7
+44;massa;Milho, verde, cru;100;138;6,6;0,6;28,6;3,9
+45;massa;Milho, verde, enlatado, drenado;100;98;3,2;2,4;17,1;4,6
+46;massa;Mingau tradicional, pó;100;373;0,6;0,4;89,3;0,9
+47;massa;Pamonha, barra para cozimento, pré-cozida;100;171;2,6;4,8;30,7;2,4
+48;pao;Pão, aveia, forma;100;343;12,4;5,7;59,6;6
+49;pao;Pão, de soja;100;309;11,3;3,6;56,5;5,7
+50;pao;Pão, glúten, forma;100;253;12;2,7;44,1;2,5
+51;pao;Pão, milho, forma;100;292;8,3;3,1;56,4;4,3
+52;pao;Pão, trigo, forma, integral;100;253;9,4;3,7;49,9;6,9
+53;pao;Pão, trigo, francês;100;300;8;3,1;58,6;2,3
+54;pao;Pão, trigo, sovado;100;311;8,4;2,8;61,5;2,4
+55;pastel;Pastel, de carne, cru;100;289;10,7;8,8;42;1
+56;pastel;Pastel, de carne, frito;100;388;10,1;20,1;43,8;1
+57;pastel;Pastel, de queijo, cru;100;308;9,9;9,6;45,9;1,1
+58;pastel;Pastel, de queijo, frito;100;422;8,7;22,7;48,1;0,9
+59;pastel;Pastel, massa, crua;100;310;6,9;5,5;57,4;1,4
+60;pastel;Pastel, massa, frita;100;570;6;40,9;49,3;1,3
+61;pipoca;Pipoca, com óleo de soja, sem sal;100;448;9,9;15,9;70,3;14,3
+62;polenta;Polenta, pré-cozida;100;103;2,3;0,3;23,3;2,4
+63;torrada;Torrada, pão francês;100;377;10,5;3,3;74,6;3,4
+64;verdura;Abóbora, cabotian, cozida;100;48;1,4;0,7;10,8;2,5
+65;verdura;Abóbora, cabotian, crua;100;39;1,7;0,5;8,4;2,2
+66;verdura;Abóbora, menina brasileira, crua;100;14;0,6;0;3,3;1,2
+67;verdura;Abóbora, moranga, crua;100;12;1;0,1;2,7;1,7
+68;verdura;Abóbora, moranga, refogada;100;29;0,4;0,8;6;1,5
+69;verdura;Abóbora, pescoço, crua;100;24;0,7;0,1;6,1;2,3
+70;verdura;Abobrinha, italiana, cozida;100;15;1,1;0,2;3;1,6
+71;verdura;Abobrinha, italiana, crua;100;19;1,1;0,1;4,3;1,4
+72;verdura;Abobrinha, italiana, refogada;100;24;1,1;0,8;4,2;1,4
+73;verdura;Abobrinha, paulista, crua;100;31;0,6;0,1;7,9;2,6
+74;verdura;Acelga, crua;100;21;1,4;0,1;4,6;1,1
+75;verdura;Agrião, cru;100;17;2,7;0,2;2,3;2,1
+76;verdura;Aipo, cru;100;19;0,8;0,1;4,3;1
+77;verdura;Alface, americana, crua;100;9;0,6;0,1;1,7;1
+78;verdura;Alface, crespa, crua;100;11;1,3;0,2;1,7;1,8
+79;verdura;Alface, lisa, crua;100;14;1,7;0,1;2,4;2,3
+80;verdura;Alface, roxa, crua;100;13;0,9;0,2;2,5;2
+81;verdura;Alfavaca, crua;100;29;2,7;0,5;5,2;4,1
+82;verdura;Alho, cru;100;113;7;0,2;23,9;4,3
+83;verdura;Alho-poró, cru;100;32;1,4;0,1;6,9;2,5
+84;verdura;Almeirão, cru;100;18;1,8;0,2;3,3;2,6
+85;verdura;Almeirão, refogado;100;65;1,7;4,8;5,7;3,4
+86;batata;Batata, baroa, cozida;100;80;0,9;0,2;18,9;1,8
+87;batata;Batata, baroa, crua;100;101;1;0,2;24;2,1
+88;batata;Batata, doce, cozida;100;77;0,6;0,1;18,4;2,2
+89;batata;Batata, doce, crua;100;118;1,3;0,1;28,2;2,6
+90;batata;Batata, frita, tipo chips, industrializada;100;543;5,6;36,6;51,2;2,5
+91;batata;Batata, inglesa, cozida;100;52;1,2;0;11,9;1,3
+92;batata;Batata, inglesa, crua;100;64;1,8;0;14,7;1,2
+93;batata;Batata, inglesa, frita;100;267;5;13,1;35,6;8,1
+94;batata;Batata, inglesa, sauté;100;68;1,3;0,9;14,1;1,4
+95;legume;Berinjela, cozida;100;19;0,7;0,1;4,5;2,5
+96;legume;Berinjela, crua;100;20;1,2;0,1;4,4;2,9
+97;legume;Beterraba, cozida;100;32;1,3;0,1;7,2;1,9
+98;legume;Beterraba, crua;100;49;1,9;0,1;11,1;3,4
+99;biscoito;Biscoito, polvilho doce;100;438;1,3;12,2;80,5;1,2
+100;verdura;Brócolis, cozido;100;25;2,1;0,5;4,4;3,4
+101;verdura;Brócolis, cru;100;25;3,6;0,3;4;2,9
+102;verdura;Cará, cozido;100;78;1,5;0,1;18,9;2,6
+103;verdura;Cará, cru;100;96;2,3;0,1;23;7,3
+104;verdura;Caruru, cru;100;34;3,2;0,6;6;4,5
+105;verdura;Catalonha, crua;100;24;1,9;0,3;4,8;2
+106;verdura;Catalonha, refogada;100;63;2;4,8;4,8;3,7
+107;verdura;Cebola, crua;100;39;1,7;0,1;8,9;2,2
+108;verdura;Cebolinha, crua;100;20;1,9;0,4;3,4;3,6
+109;verdura;Cenoura, cozida;100;30;0,8;0,2;6,7;2,6
+110;verdura;Cenoura, crua;100;34;1,3;0,2;7,7;3,2
+111;verdura;Chicória, crua;100;14;1,1;0,1;2,9;2,2
+112;verdura;Chuchu, cozido;100;19;0,4;0;4,8;1
+113;verdura;Chuchu, cru;100;17;0,7;0,1;4,1;1,3
+114;verdura;Coentro, folhas desidratadas;100;309;20,9;10,4;48;37,3
+115;verdura;Couve, manteiga, crua;100;27;2,9;0,5;4,3;3,1
+116;verdura;Couve, manteiga, refogada ;100;90;1,7;6,6;8,7;5,7
+117;verdura;Couve-flor, crua;100;23;1,9;0,2;4,5;2,4
+118;verdura;Couve-flor, cozida;100;19;1,2;0,3;3,9;2,1
+119;verdura;Espinafre, Nova Zelândia, cru;100;16;2;0,2;2,6;2,1
+120;verdura;Espinafre, Nova Zelândia, refogado;100;67;2,7;5,4;4,2;2,5
+121;verdura;Farinha, de mandioca, crua;100;361;1,6;0,3;87,9;6,4
+122;verdura;Farinha, de mandioca, torrada;100;365;1,2;0,3;89,2;6,5
+123;verdura;Farinha, de puba;100;360;1,6;0,5;87,3;4,2
+124;verdura;Fécula, de mandioca;100;331;0,5;0,3;81,1;0,6
+125;verdura;Feijão, broto, cru;100;39;4,2;0,1;7,8;2
+126;verdura;Inhame, cru;100;97;2,1;0,2;23,2;1,7
+127;verdura;Jiló, cru;100;27;1,4;0,2;6,2;4,8
+128;verdura;Jurubeba, crua;100;126;4,4;3,9;23,1;23,9
+129;verdura;Mandioca, cozida;100;125;0,6;0,3;30,1;1,6
+130;verdura;Mandioca, crua;100;151;1,1;0,3;36,2;1,9
+131;verdura;Mandioca, farofa, temperada;100;406;2,1;9,1;80,3;7,8
+132;verdura;Mandioca, frita;100;300;1,4;11,2;50,3;1,9
+133;verdura;Manjericão, cru;100;21;2;0,4;3,6;3,3
+134;verdura;Maxixe, cru;100;14;1,4;0,1;2,7;2,2
+135;verdura;Mostarda, folha, crua;100;18;2,1;0,2;3,2;1,9
+136;verdura;Nhoque, batata, cozido;100;181;5,9;1,9;36,8;1,8
+137;verdura;Nabo, cru;100;18;1,2;0,1;4,1;2,6
+138;verdura;Palmito, juçara, em conserva;100;23;1,8;0,4;4,3;3,2
+139;verdura;Palmito, pupunha, em conserva;100;29;2,5;0,5;5,5;2,6
+140;verdura;Pão, de queijo, assado;100;363;5,1;24,6;34,2;0,6
+141;verdura;Pão, de queijo, cru;100;295;3,6;14;38,5;1
+142;verdura;Pepino, cru;100;10;0,9;0;2;1,1
+143;verdura;Pimentão, amarelo, cru;100;28;1,2;0,4;6;1,9
+144;verdura;Pimentão, verde, cru;100;21;1,1;0,2;4,9;2,6
+145;verdura;Pimentão, vermelho, cru;100;23;1;0,1;5,5;1,6
+146;verdura;Polvilho, doce;100;351;0,4;0;86,8;0,2
+147;verdura;Quiabo, cru;100;30;1,9;0,3;6,4;4,6
+148;verdura;Rabanete, cru;100;14;1,4;0,1;2,7;2,2
+149;verdura;Repolho, branco, cru;100;17;0,9;0,1;3,9;1,9
+150;verdura;Repolho, roxo, cru;100;31;1,9;0,1;7,2;2
+151;verdura;Repolho, roxo, refogado;100;42;1,8;1,2;7,6;1,8
+152;verdura;Rúcula, crua;100;13;1,8;0,1;2,2;1,7
+153;verdura;Salsa, crua;100;33;3,3;0,6;5,7;1,9
+154;verdura;Seleta de legumes, enlatada;100;57;3,4;0,4;12,7;3,1
+155;verdura;Serralha, crua;100;30;2,7;0,7;4,9;3,5
+156;verdura;Taioba, crua;100;34;2,9;0,9;5,4;4,5
+157;verdura;Tomate, com semente, cru;100;15;1,1;0,2;3,1;1,2
+158;verdura;Tomate, extrato;100;61;2,4;0,2;15;2,8
+159;verdura;Tomate, molho industrializado;100;38;1,4;0,9;7,7;3,1
+160;verdura;Tomate, purê;100;28;1,4;0;6,9;1
+161;verdura;Tomate, salada;100;21;0,8;0;5,1;2,3
+162;verdura;Vagem, crua;100;25;1,8;0,2;5,3;2,4
+163;frutas;Abacate, cru;100;96;1,2;8,4;6;6,3
+164;frutas;Abacaxi, cru;100;48;0,9;0,1;12,3;1
+165;frutas;Abacaxi, polpa, congelada;100;31;0,5;0,1;7,8;0,3
+166;frutas;Abiu, cru;100;62;0,8;0,7;14,9;1,7
+167;frutas;Açaí, polpa, com xarope de guaraná e glucose;100;110;0,7;3,7;21,5;1,7
+168;frutas;Açaí, polpa, congelada;100;58;0,8;3,9;6,2;2,6
+169;frutas;Acerola, crua;100;33;0,9;0,2;8;1,5
+170;frutas;Acerola, polpa, congelada;100;22;0,6;0;5,5;0,7
+171;frutas;Ameixa, calda, enlatada ;100;183;0,4;0;46,9;0,5
+172;frutas;Ameixa, crua;100;53;0,8;0;13,9;2,4
+173;frutas;Ameixa, em calda, enlatada, drenada ;100;177;1;0,3;47,7;4,5
+174;frutas;Atemóia, crua;100;97;1;0,3;25,3;2,1
+175;frutas;Banana, da terra, crua;100;128;1,4;0,2;33,7;1,5
+176;frutas;Banana, doce em barra;100;280;2,2;0,1;75,7;3,8
+177;frutas;Banana, figo, crua;100;105;1,1;0,1;27,8;2,8
+178;frutas;Banana, maçã, crua;100;87;1,8;0,1;22,3;2,6
+179;frutas;Banana, nanica, crua;100;92;1,4;0,1;23,8;1,9
+180;frutas;Banana, ouro, crua;100;112;1,5;0,2;29,3;2
+181;frutas;Banana, pacova, crua;100;78;1,2;0,1;20,3;2
+182;frutas;Banana, prata, crua;100;98;1,3;0,1;26;2
+183;frutas;Cacau, cru;100;74;1;0,1;19,4;2,2
+184;frutas;Cajá-Manga, cru;100;46;1,3;0;11,4;2,6
+185;frutas;Cajá, polpa, congelada;100;26;0,6;0,2;6,4;1,4
+186;frutas;Caju, cru;100;43;1;0,3;10,3;1,7
+187;frutas;Caju, polpa, congelada;100;37;0,5;0,2;9,4;0,8
+188;suco;Caju, suco concentrado, envasado;100;45;0,4;0,2;10,7;0,6
+189;frutas;Caqui, chocolate, cru;100;71;0,4;0,1;19,3;6,5
+190;frutas;Carambola, crua;100;46;0,9;0,2;11,5;2
+191;frutas;Ciriguela, crua;100;76;1,4;0,4;18,9;3,9
+192;frutas;Cupuaçu, cru;100;49;1,2;1;10,4;3,1
+193;frutas;Cupuaçu, polpa, congelada;100;49;0,8;0,6;11,4;1,6
+194;frutas;Figo, cru;100;41;1;0,2;10,2;1,8
+195;frutas;Figo, enlatado, em calda;100;184;0,6;0,2;50,3;2
+196;frutas;Fruta-pão, crua;100;67;1,1;0,2;17,2;5,5
+197;frutas;Goiaba, branca, com casca, crua;100;52;0,9;0,5;12,4;6,3
+198;frutas;Goiaba, doce em pasta;100;269;0,6;0;74,1;3,7
+199;frutas;Goiaba, doce, cascão;100;286;0,4;0,1;78,7;4,4
+200;frutas;Goiaba, vermelha, com casca, crua;100;54;1,1;0,4;13;6,2
+201;frutas;Graviola, crua;100;62;0,8;0,2;15,8;1,9
+202;frutas;Graviola, polpa, congelada;100;38;0,6;0,1;9,8;1,2
+203;frutas;Jabuticaba, crua;100;58;0,6;0,1;15,3;2,3
+204;frutas;Jaca, crua;100;88;1,4;0,3;22,5;2,4
+205;frutas;Jambo, cru;100;27;0,9;0,1;6,5;5,1
+206;frutas;Jamelão, cru;100;41;0,5;0,1;10,6;1,8
+207;frutas;Kiwi, cru;100;51;1,3;0,6;11,5;2,7
+208;frutas;Laranja, baía, crua;100;45;1;0,1;11,5;1,1
+209;suco;Laranja, baía, suco;100;37;0,7;0;8,7;0
+210;frutas;Laranja, da terra, crua;100;51;1,1;0,2;12,9;4
+211;suco;Laranja, da terra, suco;100;41;0,7;0,1;9,6;1
+212;frutas;Laranja, lima, crua;100;46;1,1;0,1;11,5;1,8
+213;suco;Laranja, lima, suco;100;39;0,7;0,1;9,2;0,4
+214;frutas;Laranja, pêra, crua;100;37;1;0,1;8,9;0,8
+215;suco;Laranja, pêra, suco;100;33;0,7;0,1;7,6;0
+216;frutas;Laranja, valência, crua;100;46;0,8;0,2;11,7;1,7
+217;suco;Laranja, valência, suco;100;36;0,5;0,1;8,6;0,4
+218;suco;Limão, cravo, suco;100;14;0,3;0;5,2;0
+219;suco;Limão, galego, suco;100;22;0,6;0,1;7,3;0
+220;frutas;Limão, tahiti, cru;100;32;0,9;0,1;11,1;1,2
+221;frutas;Maçã, Argentina, com casca, crua;100;63;0,2;0,2;16,6;2
+222;frutas;Maçã, Fuji, com casca, crua;100;56;0,3;0;15,2;1,3
+223;frutas;Macaúba, crua;100;404;2,1;40,7;13,9;13,4
+224;frutas; Mamão, doce em calda, drenado;100;196;0,2;0,1;54;1,3
+225;frutas;Mamão, Formosa, cru;100;45;0,8;0,1;11,6;1,8
+226;frutas;Mamão, Papaia, cru;100;40;0,5;0,1;10,4;1
+227;frutas; Mamão verde, doce em calda, drenado;100;209;0,3;0,1;57,6;1,2
+228;frutas;Manga, Haden, crua;100;64;0,4;0,3;16,7;1,6
+229;frutas;Manga, Palmer, crua;100;72;0,4;0,2;19,4;1,6
+230;frutas;Manga, polpa, congelada;100;48;0,4;0,2;12,5;1,1
+231;frutas;Manga, Tommy Atkins, crua;100;51;0,9;0,2;12,8;2,1
+232;frutas;Maracujá, cru;100;68;2;2,1;12,3;1,1
+233;frutas;Maracujá, polpa, congelada;100;39;0,8;0,2;9,6;0,5
+234;suco;Maracujá, suco concentrado, envasado;100;42;0,8;0,2;9,6;0,4
+235;frutas;Melancia, crua;100;33;0,9;0;8,1;0,1
+236;frutas;Melão, cru;100;29;0,7;0;7,5;0,3
+237;frutas;Mexerica, Murcote, crua;100;58;0,9;0,1;14,9;3,1
+238;frutas;Mexerica, Rio, crua;100;37;0,7;0,1;9,3;2,7
+239;frutas;Morango, cru;100;30;0,9;0,3;6,8;1,7
+240;frutas;Nêspera, crua;100;43;0,3;0;11,5;3
+241;frutas;Pequi, cru;100;205;2,3;18;13;19
+242;frutas;Pêra, Park, crua;100;61;0,2;0,2;16,1;3
+243;frutas;Pêra, Williams, crua;100;53;0,6;0,1;14;3
+244;frutas;Pêssego, Aurora, cru;100;36;0,8;0;9,3;1,4
+245;frutas;Pêssego, enlatado, em calda;100;63;0,7;0;16,9;1
+246;frutas;Pinha, crua;100;88;1,5;0,3;22,4;3,4
+247;frutas;Pitanga, crua;100;41;0,9;0,2;10,2;3,2
+248;frutas;Pitanga, polpa, congelada;100;19;0,3;0,1;4,8;0,7
+249;frutas;Romã, crua;100;56;0,4;0;15,1;0,4
+250;frutas;Tamarindo, cru;100;276;3,2;0,5;72,5;6,4
+251;frutas;Tangerina, Poncã, crua;100;38;0,8;0,1;9,6;0,9
+252;suco;Tangerina, Poncã, suco;100;36;0,5;0;8,8;0
+253;frutas;Tucumã, cru;100;262;2,1;19,1;26,5;12,7
+254;frutas;Umbu, cru;100;37;0,8;0;9,4;2
+255;frutas;Umbu, polpa, congelada;100;34;0,5;0,1;8,8;1,3
+256;frutas;Uva, Itália, crua;100;53;0,7;0,2;13,6;0,9
+257;frutas;Uva, Rubi, crua;100;49;0,6;0,2;12,7;0,9
+258;suco;Uva, suco concentrado, envasado;100;58;0;0;14,7;0,2
+259;gordura;Azeite, de dendê;100;884;0;100;0;0
+260;gordura;Azeite, de oliva, extra virgem;100;884;0;100;0;0
+261;gordura;Manteiga, com sal;100;726;0,4;82,4;0,1;0
+262;gordura;Manteiga, sem sal;100;758;0,4;86;0;0
+263;gordura;Margarina, com óleo hidrogenado, com sal (65% de lipídeos);100;596;0;67,4;0;0
+264;gordura;Margarina, com óleo hidrogenado, sem sal (80% de lipídeos);100;723;0;81,7;0;0
+265;gordura;Margarina, com óleo interesterificado, com sal (65%de lipídeos);100;594;0;67,2;0;0
+266;gordura;Margarina, com óleo interesterificado, sem sal (65% de lipídeos);100;593;0;67,1;0;0
+267;gordura;Óleo, de babaçu;100;884;0;100;0;0
+268;gordura;Óleo, de canola;100;884;0;100;0;0
+269;gordura;Óleo, de girassol;100;884;0;100;0;0
+270;gordura;Óleo, de milho;100;884;0;100;0;0
+271;gordura;Óleo, de pequi;100;884;0;100;0;0
+272;gordura;Óleo, de soja;100;884;0;100;0;0
+273;pescados;Abadejo, filé, congelado, assado;100;112;23,5;1,2;0;0
+274;pescados;Abadejo, filé, congelado,cozido;100;91;19,3;0,9;0;0
+275;pescados;Abadejo, filé, congelado, cru;100;59;13,1;0,4;0;0
+276;pescados;Abadejo, filé, congelado, grelhado;100;130;27,6;1,3;0;0
+277;pescados;Atum, conserva em óleo;100;166;26,2;6;0;0
+278;pescados;Atum, fresco, cru;100;118;25,7;0,9;0;0
+279;pescados;Bacalhau, salgado, cru;100;136;29;1,3;0;0
+280;pescados;Bacalhau, salgado, refogado;100;140;24;3,6;1,2;0
+281;pescados;Cação, posta, com farinha de trigo, frita;100;208;25;10;3,1;0,5
+282;pescados;Cação, posta, cozida;100;116;25,6;0,7;0;0
+283;pescados;Cação, posta, crua;100;83;17,9;0,8;0;0
+284;pescados;Camarão, Rio Grande, grande, cozido;100;90;19;1;0;0
+285;pescados;Camarão, Rio Grande, grande, cru;100;47;10;0,5;0;0
+286;pescados;Camarão, Sete Barbas, sem cabeça, com casca, frito;100;231;18,4;15,6;2,9;0
+287;pescados;Caranguejo, cozido;100;83;18,5;0,4;0;0
+288;pescados;Corimba, cru;100;128;17,4;6;0;0
+289;pescados;Corimbatá, assado;100;261;19,9;19,6;0;0
+290;pescados;Corimbatá, cozido;100;239;20,1;16,9;0;0
+291;pescados;Corvina de água doce, crua;100;101;18,9;2,2;0;0
+292;pescados;Corvina do mar, crua;100;94;18,6;1,6;0;0
+293;pescados;Corvina grande, assada;100;147;26,8;3,6;0;0
+294;pescados;Corvina grande, cozida;100;100;23,4;2,6;0;0
+295;pescados;Dourada de água doce, fresca;100;131;18,8;5,6;0;0
+296;pescados;Lambari, congelado, cru;100;131;16,8;6,5;0;0
+297;pescados;Lambari, congelado, frito;100;327;28,4;22,8;0;0
+298;pescados;Lambari, fresco, cru;100;152;15,7;9,4;0;0
+299;pescados;Manjuba, com farinha de trigo, frita;100;344;23,5;22,6;10,2;0,4
+300;pescados;Manjuba, frita;100;349;30,1;24,5;0;0
+301;pescados;Merluza, filé, assado;100;122;26,6;0,9;0;0
+302;pescados;Merluza, filé, cru;100;89;16,6;2;0;0
+303;pescados;Merluza, filé, frito;100;192;26,9;8,5;0;0
+304;pescados;Pescada, branca, crua;100;111;16,3;4,6;0;0
+305;pescados;Pescada, branca, frita;100;223;27,4;11,8;0;0
+306;pescados;Pescada, filé, com farinha de trigo, frito;100;283;21,4;19,1;5;0
+307;pescados;Pescada, filé, cru;100;107;16,7;4;0;0
+308;pescados;Pescada, filé, frito;100;154;28,6;3,6;0;0
+309;pescados;Pescada, filé, molho escabeche;100;142;11,8;8;5;0,8
+310;pescados;Pescadinha, crua;100;76;15,5;1,1;0;0
+311;pescados;Pintado, assado;100;192;36,5;4;0;0
+312;pescados;Pintado, cru;100;91;18,6;1,3;0;0
+313;pescados;Pintado, grelhado;100;152;30,8;2,3;0;0
+314;pescados;Porquinho, cru;100;93;20,5;0,6;0;0
+315;pescados;Salmão, filé, com pele, fresco,  grelhado;100;229;23,9;14;0;0
+316;pescados;Salmão, sem pele, fresco, cru;100;170;19,3;9,7;0;0
+317;pescados;Salmão, sem pele, fresco, grelhado;100;243;26,1;14,5;0;0
+318;pescados;Sardinha, assada;100;164;32,2;3;0;0
+319;pescados;Sardinha, conserva em óleo;100;285;15,9;24;0;0
+320;pescados;Sardinha, frita;100;257;33,4;12,7;0;0
+321;pescados;Sardinha, inteira, crua;100;114;21,1;2,7;0;0
+322;pescados;Tucunaré, filé, congelado, cru;100;88;18;1,2;0;0
+323;carnes;Apresuntado;100;129;13,5;6,7;2,9;0
+324;carnes;Caldo de carne, tablete;100;241;7,8;16,6;15,1;0,6
+325;carnes;Caldo de galinha, tablete;100;251;6,3;20,4;10,6;11,8
+326;carnes;Carne, bovina, acém, moído, cozido;100;212;26,7;10,9;0;0
+327;carnes;Carne, bovina, acém, moído, cru;100;137;19,4;5,9;0;0
+328;carnes;Carne, bovina, acém, sem gordura, cozido;100;215;27,3;10,9;0;0
+329;carnes;Carne, bovina, acém, sem gordura, cru;100;144;20,8;6,1;0;0
+330;carnes;Carne, bovina, almôndegas, cruas;100;189;12,3;11,2;9,8;0
+331;carnes;Carne, bovina, almôndegas, fritas;100;272;18,2;15,8;14,3;0
+332;carnes;Carne, bovina, bucho, cozido;100;133;21,6;4,5;0;0
+333;carnes;Carne, bovina, bucho, cru;100;137;20,5;5,5;0;0
+334;carnes;Carne, bovina, capa de contra-filé, com gordura, crua;100;217;19,2;15;0;0
+335;carnes;Carne, bovina, capa de contra-filé, com gordura, grelhada;100;312;30,7;20;0;0
+336;carnes;Carne, bovina, capa de contra-filé, sem gordura, crua;100;131;21,5;4,3;0;0
+337;carnes;Carne, bovina, capa de contra-filé, sem gordura, grelhada;100;239;35,1;10;0;0
+338;carnes;Carne, bovina, charque, cozido;100;263;36,4;11,9;0;0
+339;carnes;Carne, bovina, charque, cru;100;249;22,7;16,8;0;0
+340;carnes;Carne, bovina, contra-filé, à milanesa;100;352;20,6;24;12,2;0,4
+341;carnes;Carne, bovina, contra-filé de costela, cru;100;202;19,8;13,1;0;0
+342;carnes;Carne, bovina, contra-filé de costela, grelhado;100;275;29,9;16,3;0;0
+343;carnes;Carne, bovina, contra-filé, com gordura, cru;100;206;21,2;12,8;0;0
+344;carnes;Carne, bovina, contra-filé, com gordura, grelhado;100;278;32,4;15,5;0;0
+345;carnes;Carne, bovina, contra-filé, sem gordura, cru;100;157;24;6;0;0
+346;carnes;Carne, bovina, contra-filé, sem gordura, grelhado;100;194;35,9;4,5;0;0
+347;carnes;Carne, bovina, costela, assada;100;373;28,8;27,7;0;0
+348;carnes;Carne, bovina, costela, crua;100;358;16,7;31,8;0;0
+349;carnes;Carne, bovina, coxão duro, sem gordura, cozido;100;217;31,9;8,9;0;0
+350;carnes;Carne, bovina, coxão duro, sem gordura, cru;100;148;21,5;6,2;0;0
+351;carnes;Carne, bovina, coxão mole, sem gordura, cozido;100;219;32,4;8,9;0;0
+352;carnes;Carne, bovina, coxão mole, sem gordura, cru;100;169;21,2;8,7;0;0
+353;carnes;Carne, bovina, cupim, assado;100;330;28,6;23;0;0
+354;carnes;Carne, bovina, cupim, cru;100;221;19,5;15,3;0;0
+355;carnes;Carne, bovina, fígado, cru;100;141;20,7;5,4;1,1;0
+356;carnes;Carne, bovina, fígado, grelhado;100;225;29,9;9;4,2;0
+357;carnes;Carne, bovina, filé mingnon, sem gordura, cru;100;143;21,6;5,6;0;0
+358;carnes;Carne, bovina, filé mingnon, sem gordura, grelhado;100;220;32,8;8,8;0;0
+359;carnes;Carne, bovina, flanco, sem gordura, cozido;100;196;29,4;7,8;0;0
+360;carnes;Carne, bovina, flanco, sem gordura, cru;100;141;20;6,2;0;0
+361;carnes;Carne, bovina, fraldinha, com gordura, cozida;100;338;24,2;26;0;0
+362;carnes;Carne, bovina, fraldinha, com gordura, crua;100;221;17,6;16,1;0;0
+363;carnes;Carne, bovina, lagarto, cozido;100;222;32,9;9,1;0;0
+364;carnes;Carne, bovina, lagarto, cru;100;135;20,5;5,2;0;0
+365;carnes;Carne, bovina, língua, cozida;100;315;21,4;24,8;0;0
+366;carnes;Carne, bovina, língua, crua;100;215;17,1;15,8;0;0
+367;carnes;Carne, bovina, maminha, crua;100;153;20,9;7;0;0
+368;carnes;Carne, bovina, maminha, grelhada;100;153;30,7;2,4;0;0
+369;carnes;Carne, bovina, miolo de alcatra, sem gordura, cru;100;163;21,6;7,8;0;0
+370;carnes;Carne, bovina, miolo de alcatra, sem gordura, grelhado;100;241;31,9;11,6;0;0
+371;carnes;Carne, bovina, músculo, sem gordura, cozido;100;194;31,2;6,7;0;0
+372;carnes;Carne, bovina, músculo, sem gordura, cru;100;142;21,6;5,5;0;0
+373;carnes;Carne, bovina, paleta, com gordura, crua;100;159;21,4;7,5;0;0
+374;carnes;Carne, bovina, paleta, sem gordura, cozida;100;194;29,7;7,4;0;0
+375;carnes;Carne, bovina, paleta, sem gordura, crua;100;141;21;5,7;0;0
+376;carnes;Carne, bovina, patinho, sem gordura, cru;100;133;21,7;4,5;0;0
+377;carnes;Carne, bovina, patinho, sem gordura, grelhado;100;219;35,9;7,3;0;0
+378;carnes;Carne, bovina, peito, sem gordura, cozido;100;338;22,2;27;0;0
+379;carnes;Carne, bovina, peito, sem gordura, cru;100;259;17,6;20,4;0;0
+380;carnes;Carne, bovina, picanha, com gordura, crua;100;213;18,8;14,7;0;0
+381;carnes;Carne, bovina, picanha, com gordura, grelhada;100;289;26,4;19,5;0;0
+382;carnes;Carne, bovina, picanha, sem gordura, crua;100;134;21,3;4,7;0;0
+383;carnes;Carne, bovina, picanha, sem gordura, grelhada;100;238;31,9;11,3;0;0
+384;carnes;Carne, bovina, seca, cozida;100;313;26,9;21,9;0;0
+385;carnes;Carne, bovina, seca, crua;100;313;19,7;25,4;0;0
+386;carnes;Coxinha de frango, frita;100;283;9,6;11,8;34,5;5
+387;carnes;Croquete, de carne, cru;100;246;12;15,6;13,9;0
+388;carnes;Croquete, de carne, frito;100;347;16,9;22,7;18,1;0
+389;carnes;Empada de frango, pré-cozida, assada;100;358;6,9;15,6;47,5;2,2
+390;carnes;Empada, de frango, pré-cozida;100;377;7,3;22,9;35,5;2,2
+391;carnes;Frango, asa, com pele, crua;100;213;18,1;15,1;0;0
+392;carnes;Frango, caipira, inteiro, com pele, cozido;100;243;23,9;15,6;0;0
+393;carnes;Frango, caipira, inteiro, sem pele, cozido;100;196;29,6;7,7;0;0
+394;carnes;Frango, coração, cru;100;222;12,6;18,6;0;0
+395;carnes;Frango, coração, grelhado;100;207;22,4;12,1;0,6;0
+396;carnes;Frango, coxa, com pele, assada;100;215;28,5;10,4;0,1;0
+397;carnes;Frango, coxa, com pele, crua;100;161;17,1;9,8;0;0
+398;carnes;Frango, coxa, sem pele, cozida;100;167;26,9;5,8;0;0
+399;carnes;Frango, coxa, sem pele, crua;100;120;17,8;4,9;0;0
+400;carnes;Frango, fígado, cru;100;106;17,6;3,5;0;0
+401;carnes;Frango, filé, à milanesa;100;221;28,5;7,8;7,5;1,1
+402;carnes;Frango, inteiro, com pele, cru;100;226;16,4;17,3;0;0
+403;carnes;Frango, inteiro, sem pele, assado;100;187;28;7,5;0;0
+404;carnes;Frango, inteiro, sem pele, cozido;100;170;25;7,1;0;0
+405;carnes;Frango, inteiro, sem pele, cru;100;129;20,6;4,6;0;0
+406;carnes;Frango, peito, com pele, assado;100;212;33,4;7,6;0;0
+407;carnes;Frango, peito, com pele, cru;100;149;20,8;6,7;0;0
+408;carnes;Frango, peito, sem pele, cozido;100;163;31,5;3,2;0;0
+409;carnes;Frango, peito, sem pele, cru;100;119;21,5;3;0;0
+410;carnes;Frango, peito, sem pele, grelhado;100;159;32;2,5;0;0
+411;carnes;Frango, sobrecoxa, com pele, assada;100;260;28,7;15,2;0;0
+412;carnes;Frango, sobrecoxa, com pele, crua;100;255;15,5;20,9;0;0
+413;carnes;Frango, sobrecoxa, sem pele, assada;100;233;29,2;12;0;0
+414;carnes;Frango, sobrecoxa, sem pele, crua;100;162;17,6;9,6;0;0
+415;carnes;Hambúrguer, bovino, cru;100;215;13,2;16,2;4,2;0
+416;carnes;Hambúrguer, bovino, frito;100;258;20;17;6,3;0
+417;carnes;Hambúrguer, bovino, grelhado;100;210;13,2;12,4;11,3;0
+418;carnes;Lingüiça, frango, crua;100;218;14,2;17,4;0;0
+419;carnes;Lingüiça, frango, frita;100;245;18,3;18,5;0;0
+420;carnes;Lingüiça, frango, grelhada;100;244;18,2;18,4;0;0
+421;carnes;Lingüiça, porco, crua;100;227;16,1;17,6;0;0
+422;carnes;Lingüiça, porco, frita;100;280;20,5;21,3;0;0
+423;carnes;Lingüiça, porco, grelhada;100;296;23,2;21,9;0;0
+424;carnes;Mortadela;100;269;12;21,6;5,8;0
+425;carnes;Peru, congelado, assado;100;163;26,2;5,7;0;0
+426;carnes;Peru, congelado, cru;100;94;18,1;1,8;0;0
+427;carnes;Porco, bisteca, crua;100;164;21,5;8;0;0
+428;carnes;Porco, bisteca, frita;100;311;33,7;18,5;0;0
+429;carnes;Porco, bisteca, grelhada;100;280;28,9;17,4;0;0
+430;carnes;Porco, costela, assada;100;402;30,2;30,3;0;0
+431;carnes;Porco, costela, crua;100;256;18;19,8;0;0
+432;carnes;Porco, lombo, assado;100;210;35,7;6,4;0;0
+433;carnes;Porco, lombo, cru;100;176;22,6;8,8;0;0
+434;carnes;Porco, orelha, salgada, crua;100;258;18,5;19,9;0;0
+435;carnes;Porco, pernil, assado;100;262;32,1;13,9;0;0
+436;carnes;Porco, pernil, cru;100;186;20,1;11,1;0;0
+437;carnes;Porco, rabo, salgado, cru;100;377;15,6;34,5;0;0
+438;carnes;Presunto, com capa de gordura;100;128;14,4;6,8;1,4;0
+439;carnes;Presunto, sem capa de gordura;100;94;14,3;2,7;2,1;0
+440;carnes;Quibe, assado;100;136;14,6;2,7;12,9;1,9
+441;carnes;Quibe, cru;100;109;12,4;1,7;10,8;1,6
+442;carnes;Quibe, frito;100;254;14,9;15,8;12,3;0
+443;carnes;Salame;100;398;25,8;30,6;2,9;0
+444;carnes;Toucinho, cru;100;593;11,5;60,3;0;0
+445;carnes;Toucinho, frito;100;697;27,3;64,3;0;0
+446;leites;Bebida láctea, pêssego;100;55;2,1;1,9;7,6;0,3
+447;leites;Creme de Leite;100;221;1,5;22,5;4,5;0
+448;iogurte;Iogurte, natural;100;51;4,1;3;1,9;0
+449;iogurte;Iogurte, natural, desnatado;100;41;3,8;0,3;5,8;0
+450;iogurte;Iogurte, sabor abacaxi;100;0;0;0;0;0
+451;iogurte;Iogurte, sabor morango;100;70;2,7;2,3;9,7;0,2
+452;iogurte;Iogurte, sabor pêssego;100;68;2,5;2,3;9,4;0,7
+453;leites;Leite, condensado;100;313;7,7;6,7;57;0
+454;leites;Leite, de cabra;100;66;3,1;3,8;5,2;0
+455;leites;Leite, de vaca, achocolatado;100;83;2,1;2,2;14,2;0,6
+456;leites;Leite, de vaca, desnatado, pó;100;362;34,7;0,9;53;0
+457;leites;Leite, de vaca, desnatado, UHT;100;0;0;0;0;0
+458;leites;Leite, de vaca, integral;100;0;0;0;0;0
+459;leites;Leite, de vaca, integral, pó;100;497;25,4;26,9;39,2;0
+460;leites;Leite, fermentado;100;70;1,9;0,1;15,7;0
+461;quaijo;Queijo, minas, frescal;100;264;17,4;20,2;3,2;0
+462;quaijo;Queijo, minas, meia cura;100;321;21,2;24,6;3,6;0
+463;quaijo;Queijo, mozarela;100;330;22,6;25,2;3;0
+464;quaijo;Queijo, parmesão;100;453;35,6;33,5;1,7;0
+465;quaijo;Queijo, pasteurizado;100;303;9,4;27,4;5,7;0
+466;quaijo;Queijo, petit suisse, morango;100;121;5,8;2,8;18,5;0
+467;quaijo;Queijo, prato;100;360;22,7;29,1;1,9;0
+468;quaijo;Queijo, requeijão, cremoso;100;257;9,6;23,4;2,4;0
+469;quaijo;Queijo, ricota;100;140;12,6;8,1;3,8;0
+470;bebidas;Bebida isotônica, sabores variados;100;26;0;0;6,4;0
+471;bebidas;Café, infusão 10%;100;9;0,7;0,1;1,5;0
+472;alcool;Cana, aguardente 1;100;216;0;0;0;0
+473;alcool;Cana, caldo de;100;65;0;0;18,2;0,1
+474;alcool;Cerveja, pilsen 2;100;41;0,6;0;3,3;0
+475;bebidas;Chá, erva-doce, infusão 5%;100;1;0;0;0,4;0
+476;bebidas;Chá, mate, infusão 5%;100;3;0;0,1;0,6;0
+477;bebidas;Chá, preto, infusão 5%;100;2;0;0;0,6;0
+478;bebidas;Coco, água de;100;22;0;0;5,3;0,1
+479;refri;Refrigerante, tipo água tônica;100;31;0;0;8;0
+480;refri;Refrigerante, tipo cola;100;34;0;0;8,7;0
+481;refri;Refrigerante, tipo guaraná;100;39;0;0;10;0
+482;refri;Refrigerante, tipo laranja;100;46;0;0;11,8;0
+483;refri;Refrigerante, tipo limão;100;40;0;0;10,3;0
+484;ovos;Omelete, de queijo;100;268;15,6;22;0,4;0
+485;ovos;Ovo, de codorna, inteiro, cru;100;177;13,7;12,7;0,8;0
+486;ovos;Ovo, de galinha, clara, cozida/10minutos;100;59;13,4;0,1;0;0
+487;ovos;Ovo, de galinha, gema, cozida/10minutos;100;353;15,9;30,8;1,6;0
+488;ovos;Ovo, de galinha, inteiro, cozido/10minutos;100;146;13,3;9,5;0,6;0
+489;ovos;Ovo, de galinha, inteiro, cru;100;143;13;8,9;1,6;0
+490;ovos;Ovo, de galinha, inteiro, frito;100;240;15,6;18,6;1,2;0
+491;doces;Achocolatado, pó;100;401;4,2;2,2;91,2;3,9
+492;doces;Açúcar, cristal;100;387;0,3;0;99,6;0
+493;doces;Açúcar, mascavo;100;369;0,8;0,1;94,5;0
+494;doces;Açúcar, refinado;100;387;0,3;0;99,5;0
+495;doces;Chocolate, ao leite;100;540;7,2;30,3;59,6;2,2
+496;doces;Chocolate, ao leite, com castanha do Pará;100;559;7,4;34,2;55,4;2,5
+497;doces;Chocolate, ao leite, dietético;100;557;6,9;33,8;56,3;2,8
+498;doces;Chocolate, meio amargo;100;475;4,9;29,9;62,4;4,9
+499;doces;Cocada branca;100;449;1,1;13,6;81,4;3,6
+500;doces;Doce, de abóbora, cremoso;100;199;0,9;0,2;54,6;2,3
+501;doces;Doce, de leite, cremoso;100;306;5,5;6;59,5;0
+502;doces;Geléia, mocotó, natural;100;106;2,1;0,1;24,2;0
+503;doces;Glicose de milho;100;292;0;0;79,4;0
+504;doces;Maria mole;100;301;3,8;0,2;73,6;0,7
+505;doces;Maria mole, coco queimado;100;307;3,9;0,1;75,1;0,6
+506;doces;Marmelada;100;257;0,4;0,1;70,8;4,1
+507;doces;Mel, de abelha;100;309;0;0;84;0
+508;doces;Melado;100;297;0;0;76,6;0
+509;doces;Quindim;100;411;4,7;24,4;46,3;3,2
+510;doces;Rapadura;100;352;1;0,1;90,8;0
+511;mix;Café, pó, torrado;100;419;14,7;11,9;65,8;51,2
+512;mix;Capuccino, pó;100;417;11,3;8,6;73,6;2,4
+513;mix;Fermento em pó, químico;100;90;0,5;0,1;43,9;0
+514;mix;Fermento, biológico, levedura, tablete;100;90;17;1,5;7,7;4,2
+515;mix;Gelatina, sabores variados, pó;100;380;8,9;0;89,2;0
+516;mix;Sal, dietético;100;0;0;0;0;0
+517;mix;Sal, grosso;100;0;0;0;0;0
+518;mix;Shoyu;100;61;3,3;0,3;11,6;0
+519;mix;Tempero a base de sal;100;21;2,7;0,3;2,1;0,6
+520;industrializados;Azeitona, preta, conserva;100;194;1,2;20,3;5,5;4,6
+521;industrializados;Azeitona, verde, conserva;100;137;0,9;14,2;4,1;3,8
+522;industrializados;Chantilly, spray, com gordura vegetal;100;315;0,5;27,3;16,9;0
+523;industrializados;Leite, de coco;100;166;1;18,4;2,2;0,7
+524;industrializados;Maionese, tradicional com ovos;100;302;0,6;30,5;7,9;0
+525;preparados;Acarajé;100;289;8,3;19,9;19,1;9,4
+526;preparados;Arroz carreteiro;100;154;10,8;7,1;11,6;1,5
+527;preparados;Baião de dois, arroz e feijão-de-corda;100;136;6,2;3,2;20,4;5,1
+528;preparados;Barreado;100;165;18,3;9,5;0,2;0,1
+529;preparados;Bife à cavalo, com contra filé;100;291;23,7;21,1;0;0
+530;preparados;Bolinho de arroz;100;274;8;8,3;41,7;2,7
+531;preparados;Camarão à baiana;100;101;7,9;6;3,2;0,4
+532;preparados;Charuto, de repolho;100;78;6,8;1,1;10,1;1,5
+533;preparados;Cuscuz, de milho, cozido com sal;100;113;2,2;0,7;25,3;2,1
+534;preparados;Cuscuz, paulista;100;142;2,6;4,6;22,5;2,4
+535;preparados;Cuxá, molho;100;80;5,6;3,6;5,7;3
+536;preparados;Dobradinha;100;125;19,8;4,4;0;0
+537;preparados;Estrogonofe de carne;100;173;15;10,8;3;0
+538;preparados;Estrogonofe de frango;100;157;17,6;8;2,6;0
+539;preparados;Feijão tropeiro mineiro;100;152;10,2;6,8;19,6;3,6
+540;preparados;L;100;117;8,7;6,5;11,6;5,1
+541;preparados;Frango, com açafrão;100;113;9,7;6,2;4,1;0,2
+542;preparados;Macarrão, molho bolognesa;100;120;4,9;0,9;22,5;0,8
+543;preparados;Maniçoba;100;134;10;8,7;3,4;2,2
+544;preparados;Quibebe;100;86;8,6;2,7;6,6;1,7
+545;preparados;Salada, de legumes, com maionese;100;96;1,1;7;8,9;2,2
+546;preparados;Salada, de legumes, cozida no vapor;100;35;2;0,3;7,1;2,5
+547;preparados;Salpicão, de frango;100;148;13,9;7,8;4,6;0,4
+548;preparados;Sarapatel;100;123;18,5;4,4;1,1;0
+549;preparados;Tabule;100;57;2;1,2;10,6;2,1
+550;preparados;Tacacá;100;47;7;0,4;3,4;0,2
+551;preparados;Tapioca, com manteiga;100;348;0,1;10,9;63,6;0
+552;preparados;Tucupi, com pimenta-de-cheiro;100;27;2,1;0,3;4,7;0,2
+553;preparados;Vaca atolada;100;145;5,1;9,3;10,1;2,3
+554;preparados;Vatapá;100;255;6;23,2;9,7;1,7
+555;preparados;Virado à paulista;100;307;10,2;25,6;14,1;2,2
+556;preparados;Yakisoba;100;113;7,5;2,6;18,3;1,1
+557;leguminosas;Amendoim, grão, cru;100;544;27,2;43,9;20,3;8
+558;leguminosas;Amendoim, torrado, salgado;100;606;22,5;54;18,7;7,8
+559;leguminosas;Ervilha, em vagem;100;88;7,5;0,5;14,2;9,7
+560;leguminosas;Ervilha, enlatada, drenada;100;74;4,6;0,4;13,4;5,1
+561;leguminosas;Feijão, carioca, cozido;100;76;4,8;0,5;13,6;8,5
+562;leguminosas;Feijão, carioca, cru;100;329;20;1,3;61,2;18,4
+563;leguminosas;Feijão, fradinho, cozido;100;78;5,1;0,6;13,5;7,5
+564;leguminosas;Feijão, fradinho, cru;100;339;20,2;2,4;61,2;23,6
+565;leguminosas;Feijão, jalo, cozido;100;93;6,1;0,5;16,5;13,9
+566;leguminosas;Feijão, jalo, cru;100;328;20,1;0,9;61,5;30,3
+567;leguminosas;Feijão, preto, cozido;100;77;4,5;0,5;14;8,4
+568;leguminosas;Feijão, preto, cru;100;324;21,3;1,2;58,8;21,8
+569;leguminosas;Feijão, rajado, cozido;100;85;5,5;0,4;15,3;9,3
+570;leguminosas;Feijão, rajado, cru;100;326;17,3;1,2;62,9;24
+571;leguminosas;Feijão, rosinha, cozido;100;68;4,5;0,5;11,8;4,8
+572;leguminosas;Feijão, rosinha, cru;100;337;20,9;1,3;62,2;20,6
+573;leguminosas;Feijão, roxo, cozido;100;77;5,7;0,5;12,9;11,5
+574;leguminosas;Feijão, roxo, cru;100;331;22,2;1,2;60;33,8
+575;leguminosas;Grão-de-bico, cru;100;355;21,2;5,4;57,9;12,4
+576;leguminosas;Guandu, cru;100;344;19;2,1;64;21,3
+577;leguminosas;Lentilha, cozida;100;93;6,3;0,5;16,3;7,9
+578;leguminosas;Lentilha, crua;100;339;23,2;0,8;62;16,9
+579;leguminosas;Paçoca, amendoim;100;487;16;26,1;52,4;7,3
+580;leguminosas;Pé-de-moleque, amendoim;100;503;13,2;28;54,7;3,4
+581;leguminosas;Soja, farinha;100;404;36;14,6;38,4;20,2
+582;leguminosas;Soja, extrato solúvel, natural, fluido;100;39;2,4;1,6;4,3;0,4
+583;leguminosas;Soja, extrato solúvel, pó;100;459;35,7;26,2;28,5;7,3
+584;leguminosas;Soja, queijo (tofu);100;64;6,6;4;2,1;0,8
+585;leguminosas;Tremoço, cru;100;381;33,6;10,3;43,8;32,3
+586;leguminosas;Tremoço, em conserva;100;121;11,1;3,8;12,4;14,4
+587;nozes;Amêndoa, torrada, salgada;100;581;18,6;47,3;29,5;11,6
+588;nozes;Castanha-de-caju, torrada, salgada;100;570;18,5;46,3;29,1;3,7
+589;nozes;Castanha-do-Brasil, crua;100;643;14,5;63,5;15,1;7,9
+590;nozes;Coco, cru;100;406;3,7;42;10,4;5,4
+591;nozes;Coco,  verde, cru;100;0;0;0;0;0
+592;nozes;Farinha, de mesocarpo de babaçu, crua;100;329;1,4;0,2;79,2;17,9
+593;nozes;Gergelim, semente;100;584;21,2;50,4;21,6;11,9
+594;nozes;Linhaça, semente;100;495;14,1;32,3;43,3;33,5
+595;nozes;Pinhão, cozido;100;174;3;0,7;43,9;15,6
+596;nozes;Pupunha, cozida;100;219;2,5;12,8;29,6;4,3
+597;nozes;Noz, crua;100;620;14;59,4;18,4;7,2

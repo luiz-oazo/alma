@@ -1,0 +1,16 @@
+seg,cafe_da_manha,gosta,1,2,3,4,5,6,7,8
+seg,cafe_da_manha,nao_gosta,9,10,11,12
+seg,cafe_da_manha,nao_pode,13,14,15
+todos,cafe_da_manha,obrigatorio,1
+ter,lanche_da_manha,gosta,9,10,11,12
+ter,lanche_da_manha,nao_gosta,9,10,11,12
+ter,lanche_da_manha,nao_pode,13,14,15
+ter,almoco,gosta,1,2,3,4,5,6,7,8
+ter,almoco,nao_gosta,9,10,11,12
+ter,almoco,nao_pode,13,14,15
+qua,lanche_da_tarde,gosta,1,2,3,4,5,6,7,8
+qua,lanche_da_tarde,nao_gosta,9,10,11,12
+qua,lanche_da_tarde,nao_pode,13,14,15
+qua,jantar,gosta,1,2,3,4,5,6,7,8
+qua,jantar,nao_gosta,9,10,11,12
+qua,jantar,nao_pode,13,14,15

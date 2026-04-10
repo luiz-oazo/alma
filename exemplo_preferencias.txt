@@ -1,0 +1,19 @@
+# Exemplo de arquivo de preferências
+# Formato: dia,refeicao,tipo_preferencia,alimento1,alimento2,...
+# Dias: seg, ter, qua, qui, sex, sab, dom, todos
+# Refeições: cafe_da_manha, lanche_da_manha, almoco, lanche_da_tarde, jantar
+# Tipos: gosta, nao_gosta, nao_pode, obrigatorio
+
+# Preferências para todos os dias (usado quando dia específico não existe)
+todos,cafe_da_manha,obrigatorio,7
+todos,almoco,gosta,1,2,3,4
+todos,almoco,nao_pode,25,26
+todos,jantar,nao_gosta,10,11,12
+
+# Preferências específicas para segunda-feira (sobrescreve "todos")
+seg,almoco,obrigatorio,5
+seg,almoco,gosta,1,2,3
+
+# Preferências específicas para domingo
+dom,cafe_da_manha,obrigatorio,8,9
+dom,jantar,nao_pode,20,21,22
