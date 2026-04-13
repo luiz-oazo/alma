@@ -6,7 +6,7 @@ from reportlab.pdfgen import canvas
 import io
 import base64
 
-st.set_page_config(page_title="Teste DISC", layout="centered")
+st.set_page_config(page_title="Teste Paula Nutri ALMA", layout="centered")
 
 # =========================
 # INPUT INICIAL
@@ -113,15 +113,37 @@ else:
     buffer = io.BytesIO()
     c = canvas.Canvas(buffer, pagesize=letter)
 
-    c.drawString(100, 750, "Resultado DISC")
+    # 🔹 Título
+    c.drawString(100, 750, "Resultado ALMA")
     c.drawString(100, 720, f"Nome: {st.session_state.name}")
     c.drawString(100, 690, f"Perfil: {perfil}")
 
+    # 🔹 Scores
     y = 650
+    c.drawString(100, y, "Pontuação ALMA:")
+    y -= 20
+
     for k, v in scores.items():
         c.drawString(100, y, f"{k}: {v}")
         y -= 20
 
+    # 🔹 Respostas
+    y -= 20
+    c.drawString(100, y, "Respostas:")
+    y -= 20
+
+    respostas = st.session_state.get("respostas", {})
+
+    for pergunta, resposta in respostas.items():
+        c.drawString(100, y, f"{pergunta}: {resposta}")
+        y -= 20
+
+        # quebra de página se acabar espaço
+        if y < 50:
+            c.showPage()
+            y = 750
+
+    # 🔹 Finalizar
     c.save()
     buffer.seek(0)
 
@@ -140,7 +162,7 @@ else:
     mensagem = f"Olá {st.session_state.name}, seu perfil ALMA: I-{I} S-{S} D-{D} C-{C}."
     link = f"https://wa.me/5511983166681?text={urllib.parse.quote(mensagem)}"
 
-    st.info("Clique abaixo para abrir o WhatsApp:")
+    st.info("Clique abaixo para abrir o WhatsApp e enviar:")
 
     st.markdown(f"""
     <a href="{link}" target="_blank">
