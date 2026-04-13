@@ -1,3 +1,4 @@
+import webbrowser
 import streamlit as st
 import urllib.parse
 from reportlab.lib.pagesizes import letter
@@ -134,7 +135,7 @@ else:
     # =========================
     mensagem = f"Olá {st.session_state.name}, seu perfil DISC é {perfil}. Baixe seu resultado aqui."
 
-    link = f"https://wa.me/55{st.session_state.phone}?text={urllib.parse.quote(mensagem)}"
+    link = f"https://wa.me/5511983166681?text={urllib.parse.quote(mensagem)}"
 
     st.markdown(f"""
         <script>
@@ -146,13 +147,12 @@ else:
 
     st.info("Você será redirecionado para o WhatsApp...")
 
-import webbrowser
-import urllib.parse
 
-numero = "5511983166681"
+    numero = "5511983166681"
 
-msg_encoded = urllib.parse.quote(mensagem)
+    msg_encoded = urllib.parse.quote(mensagem)
 
-link = f"https://wa.me/{numero}?text={msg_encoded}"
+    link = f"https://wa.me/{numero}?text={msg_encoded}"
 
-webbrowser.open(link)
+    webbrowser.open(link)
+
