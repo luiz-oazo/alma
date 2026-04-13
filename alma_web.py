@@ -145,3 +145,14 @@ else:
     """, unsafe_allow_html=True)
 
     st.info("Você será redirecionado para o WhatsApp...")
+
+import webbrowser
+import urllib.parse
+
+numero = "5511983166681"
+
+msg_encoded = urllib.parse.quote(mensagem)
+
+link = f"https://wa.me/{numero}?text={msg_encoded}"
+
+webbrowser.open(link)
