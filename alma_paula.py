@@ -7,11 +7,7 @@ import io
 import base64
 import os
 from reportlab.lib.utils import ImageReader
-
-base_path = os.path.dirname(__file__)
-logo_path = os.path.join(base_path, "alma.png")
-
-logo = ImageReader(logo_path)
+from PIL import Image
 
 st.set_page_config(page_title="Teste Paula Nutri ALMA", layout="centered")
 
@@ -119,11 +115,35 @@ else:
     # =========================
     buffer = io.BytesIO()
     c = canvas.Canvas(buffer, pagesize=letter)
+    page_width, page_height = letter
 
     # Logo
 
-    logo = ImageReader("alma.png")
-    c.drawImage(logo, 230, 730, width=150, preserveAspectRatio=True, mask='auto')
+    try:
+        base_path = os.path.dirname(__file__)
+        logo_path = os.path.join(base_path, "alma.png")
+    
+        img = Image.open(logo_path)
+    
+        img_buffer = io.BytesIO()
+        img.save(img_buffer, format="PNG")
+        img_buffer.seek(0)
+    
+        logo = ImageReader(img_buffer)
+    
+        logo_width = 150
+        x_logo = (page_width - logo_width) / 2
+    
+        c.drawImage(
+            logo,
+            x_logo,
+            page_height - 100,
+            width=logo_width,
+            preserveAspectRatio=True,
+            mask='auto'
+        )
+    except:
+        pass  # evita quebrar o PDF se o logo falhar
 
     # 🔹 Título
     c.drawString(100, 750, "Resultado ALMA")
