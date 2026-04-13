@@ -14,7 +14,7 @@ if "started" not in st.session_state:
     st.session_state.started = False
 
 if not st.session_state.started:
-    st.title("🧠 Teste DISC")
+    st.title("🧠 Teste Paula Nutri ALMA")
 
     name = st.text_input("Seu nome:")
     phone = st.text_input("Seu WhatsApp (somente números com DDD):")
