@@ -131,17 +131,15 @@ else:
     
         logo = ImageReader(img_buffer)
     
-        logo_width = 150
-        x_logo = (page_width - logo_width) / 2
-    
         c.drawImage(
             logo,
-            x_logo,
-            page_height - 100,
-            width=logo_width,
+            230,
+            730,
+            width=150,
             preserveAspectRatio=True,
             mask='auto'
         )
+    
     except:
         pass  # evita quebrar o PDF se o logo falhar
 
