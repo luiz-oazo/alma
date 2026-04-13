@@ -18,7 +18,6 @@ if not st.session_state.started:
     st.title("🧠 Teste Paula Nutri ALMA")
 
     name = st.text_input("Seu nome:")
-    phone = st.text_input("Seu WhatsApp (somente números com DDD):")
 
     if st.button("Iniciar"):
         if name and phone:
@@ -104,6 +103,11 @@ else:
 
     st.success(f"Seu perfil é: {perfil}")
 
+    I = scores.get("I", 0)
+    S = scores.get("S", 0)
+    D = scores.get("D", 0)
+    C = scores.get("C", 0)
+
     # =========================
     # GERAR PDF
     # =========================
@@ -134,8 +138,7 @@ else:
     # WHATSAPP AUTO
     # =========================
 
-
-    mensagem = f"Olá {st.session_state.name}, seu perfil DISC é {perfil}. Baixe seu resultado aqui."
+    mensagem = f"Olá {st.session_state.name}, seu perfil ALMA: I-{I} S-{S} D-{D} C-{C}."
     link = f"https://wa.me/5511983166681?text={urllib.parse.quote(mensagem)}"
 
     st.info("Clique abaixo para abrir o WhatsApp:")
