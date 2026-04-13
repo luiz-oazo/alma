@@ -102,10 +102,10 @@ else:
 
     st.success(f"Seu perfil é: {perfil}")
 
-    A1 = scores.get("I", 0)
-    L = scores.get("S", 0)
-    M = scores.get("D", 0)
-    A2 = scores.get("C", 0)
+    A1 = scores.get("A1", 0)
+    L  = scores.get("L", 0)
+    M  = scores.get("M", 0)
+    A2 = scores.get("A2", 0)
 
     # =========================
     # GERAR PDF
