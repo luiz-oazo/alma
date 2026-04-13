@@ -168,7 +168,7 @@ else:
     # LINK PARA DOWNLOAD
     # =========================
     b64 = base64.b64encode(buffer.read()).decode()
-    href = f'<a href="data:application/pdf;base64,{b64}" download="resultado.pdf">Download PDF</a>'
+    href = f'<a href="data:application/pdf;base64,{b64}" download="Teste_ALMA_Paula_Nutri.pdf">Download PDF</a>'
 
     st.markdown(href, unsafe_allow_html=True)
 
