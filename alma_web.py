@@ -154,5 +154,6 @@ else:
 
     link = f"https://wa.me/{numero}?text={msg_encoded}"
 
+    st.info("Você será redirecionado para o WhatsApp teste...")
     webbrowser.open(link)
 
