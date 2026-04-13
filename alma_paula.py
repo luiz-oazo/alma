@@ -176,7 +176,7 @@ else:
     # WHATSAPP AUTO
     # =========================
 
-    mensagem = f"Olá {st.session_state.name}, seu perfil ALMA: A2-{A2} L-{L} M-{M} A2-{A2}."
+    mensagem = f"Olá {st.session_state.name}, seu perfil ALMA: A1-{A1} L-{L} M-{M} A2-{A2}."
     link = f"https://wa.me/5511983166681?text={urllib.parse.quote(mensagem)}"
 
     st.info("Clique abaixo para abrir o WhatsApp e enviar:")
