@@ -132,13 +132,30 @@ else:
     c.drawString(100, y, "Respostas:")
     y -= 20
 
-    respostas = st.session_state.get("respostas", {})
+    answers = st.session_state.answers
 
-    for pergunta, resposta in respostas.items():
-        c.drawString(100, y, f"{pergunta}: {resposta}")
-        y -= 20
+    for i, answer_idx in enumerate(answers):
 
-        # quebra de página se acabar espaço
+        if answer_idx is None:
+            continue
+
+        pergunta = f"Pergunta {i+1}"
+        opcoes = questions[i]
+
+        texto_resposta = opcoes[answer_idx]
+        tipo_disc = disc_map[answer_idx]
+
+        # 🔹 escreve pergunta
+        c.setFont("Helvetica-Bold", 10)
+        c.drawString(100, y, pergunta)
+        y -= 15
+
+        # 🔹 escreve resposta
+        c.setFont("Helvetica", 10)
+        c.drawString(120, y, f"Escolha: {texto_resposta} ({tipo_disc})")
+        y -= 25
+
+        # 🔹 quebra de página
         if y < 50:
             c.showPage()
             y = 750
