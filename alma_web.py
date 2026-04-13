@@ -20,9 +20,8 @@ if not st.session_state.started:
     name = st.text_input("Seu nome:")
 
     if st.button("Iniciar"):
-        if name and phone:
+        if name:
             st.session_state.name = name
-            st.session_state.phone = phone
             st.session_state.started = True
             st.rerun()
         else:
