@@ -5,6 +5,13 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 import io
 import base64
+import os
+from reportlab.lib.utils import ImageReader
+
+base_path = os.path.dirname(__file__)
+logo_path = os.path.join(base_path, "alma.png")
+
+logo = ImageReader(logo_path)
 
 st.set_page_config(page_title="Teste Paula Nutri ALMA", layout="centered")
 
