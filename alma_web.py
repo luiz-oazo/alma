@@ -133,27 +133,25 @@ else:
     # =========================
     # WHATSAPP AUTO
     # =========================
-    mensagem = f"Olá {st.session_state.name}, seu perfil DISC é {perfil}. Baixe seu resultado aqui."
 
+
+    mensagem = f"Olá {st.session_state.name}, seu perfil DISC é {perfil}. Baixe seu resultado aqui."
     link = f"https://wa.me/5511983166681?text={urllib.parse.quote(mensagem)}"
 
+    st.info("Clique abaixo para abrir o WhatsApp:")
+
     st.markdown(f"""
-        <script>
-        setTimeout(function() {{
-            window.open("{link}", "_blank");
-        }}, 3000);
-        </script>
+    <a href="{link}" target="_blank">
+        <button style="
+            background-color:#25D366;
+            color:white;
+            padding:12px 20px;
+            border:none;
+            border-radius:8px;
+            font-size:16px;
+            cursor:pointer;">
+            💬 Abrir WhatsApp
+        </button>
+    </a>
     """, unsafe_allow_html=True)
-
-    st.info("Você será redirecionado para o WhatsApp...")
-
-
-    numero = "5511983166681"
-
-    msg_encoded = urllib.parse.quote(mensagem)
-
-    link = f"https://wa.me/{numero}?text={msg_encoded}"
-
-    st.info("Você será redirecionado para o WhatsApp teste...")
-    webbrowser.open(link)
 
