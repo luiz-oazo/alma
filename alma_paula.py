@@ -59,12 +59,12 @@ questions = [
     ["Tagarela", "Acomodado", "Egocêntrico", "Dependente"]
 ]
 
-disc_map = ["I", "S", "D", "C"]
+alma_map = ["A1", "L", "M", "A2"]
 
 if "q" not in st.session_state:
     st.session_state.q = 0
     st.session_state.answers = [None] * len(questions)
-    st.session_state.scores = {"I": 0, "S": 0, "D": 0, "C": 0}
+    st.session_state.scores = {"A1": 0, "L": 0, "M": 0, "A2": 0}
 
 # =========================
 # UI
@@ -85,10 +85,10 @@ if q < len(questions):
 
         if st.session_state.answers[q] is not None:
             old = st.session_state.answers[q]
-            st.session_state.scores[disc_map[old]] -= 1
+            st.session_state.scores[alma_map[old]] -= 1
 
         st.session_state.answers[q] = idx
-        st.session_state.scores[disc_map[idx]] += 1
+        st.session_state.scores[alma_map[idx]] += 1
 
         st.session_state.q += 1
         st.rerun()
@@ -102,10 +102,10 @@ else:
 
     st.success(f"Seu perfil é: {perfil}")
 
-    I = scores.get("I", 0)
-    S = scores.get("S", 0)
-    D = scores.get("D", 0)
-    C = scores.get("C", 0)
+    A1 = scores.get("I", 0)
+    L = scores.get("S", 0)
+    M = scores.get("D", 0)
+    A2 = scores.get("C", 0)
 
     # =========================
     # GERAR PDF
@@ -143,7 +143,7 @@ else:
         opcoes = questions[i]
 
         texto_resposta = opcoes[answer_idx]
-        tipo_disc = disc_map[answer_idx]
+        tipo_alma = alma_map[answer_idx]
 
         # 🔹 escreve pergunta
         c.setFont("Helvetica-Bold", 10)
@@ -152,7 +152,7 @@ else:
 
         # 🔹 escreve resposta
         c.setFont("Helvetica", 10)
-        c.drawString(120, y, f"Escolha: {texto_resposta} ({tipo_disc})")
+        c.drawString(120, y, f"Escolha: {texto_resposta} ({tipo_alma})")
         y -= 25
 
         # 🔹 quebra de página
@@ -176,7 +176,7 @@ else:
     # WHATSAPP AUTO
     # =========================
 
-    mensagem = f"Olá {st.session_state.name}, seu perfil ALMA: I-{I} S-{S} D-{D} C-{C}."
+    mensagem = f"Olá {st.session_state.name}, seu perfil ALMA: A2-{A2} L-{L} M-{M} A2-{A2}."
     link = f"https://wa.me/5511983166681?text={urllib.parse.quote(mensagem)}"
 
     st.info("Clique abaixo para abrir o WhatsApp e enviar:")
