@@ -113,6 +113,11 @@ else:
     buffer = io.BytesIO()
     c = canvas.Canvas(buffer, pagesize=letter)
 
+    # Logo
+
+    logo = ImageReader("alma.png")
+    c.drawImage(logo, 230, 730, width=150, preserveAspectRatio=True, mask='auto')
+
     # 🔹 Título
     c.drawString(100, 750, "Resultado ALMA")
     c.drawString(100, 720, f"Nome: {st.session_state.name}")
